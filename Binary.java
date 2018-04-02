@@ -61,9 +61,9 @@ class Binary
 		}
 		Arrays.sort(d);
 		System.out.println(d[d.length-1]);
-		for(int i=0;i<d.length;i++)
+		/*for(int i=0;i<d.length;i++)
 		{
 		System.out.println(d[i]);
-		}
+		}*/
 	}
 }
