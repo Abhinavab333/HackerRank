@@ -7,7 +7,7 @@ import java.util.regex.*;
 public class Sorting{
 
 public static  void swap(int a,int b)
-{
+{int a;
 	int temp;
 	temp=a;
 	a=b;

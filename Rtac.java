@@ -17,7 +17,7 @@ public class Rtac {
         {
                int flag=0;
 
-            for(int j=2;j<=a[i]-1;j++)
+            for(int j=2;j<=(a[i]/2);j++)
             {
                 if(a[i]%j==0)
                 {
